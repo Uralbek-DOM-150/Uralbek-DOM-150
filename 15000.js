@@ -1,0 +1,1 @@
+document.getElementById("15000-1").innerHTML = "Uralbek UZ";
