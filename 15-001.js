@@ -1,1 +1,3 @@
-document.getElementById("15000-1").innerHTML = "Buguning <br> bilan <br> yasha!";
+document.getElementById("15000-1").innerHTML = "Таниш бекат кґринди. Элёр тушишга µозирлик кґра-
+ётганди, бирдан оріа тарафдан аёл кишининг баіирган
+овози автобус ичини тутди. <br> bilan <br> yasha!";
