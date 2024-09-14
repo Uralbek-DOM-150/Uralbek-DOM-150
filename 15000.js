@@ -1,1 +1,1 @@
-document.getElementById("15000-1").innerHTML = "Uralbek UZ";
+document.getElementById("15000-1").innerHTML = "Buguning bilan yasha!";
