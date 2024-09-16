@@ -1,1 +1,1 @@
-document.getElementById("150-a").innerHTML = "www.";
+document.getElementById("150-a").innerHTML = "www.dom.uralbek.uz";
