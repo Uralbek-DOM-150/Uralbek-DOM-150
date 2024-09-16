@@ -1,1 +1,1 @@
-document.getElementById("150-a1").innerHTML = "";
+document.getElementById("150-a1").innerHTML = "HTML hujjatga quyidagi havolani qo‘shing";
