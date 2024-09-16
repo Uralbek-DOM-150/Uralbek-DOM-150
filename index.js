@@ -1,0 +1,1 @@
+document.getElementById("150-a1").innerHTML = "Buguning bilan yasha!";
